@@ -1,0 +1,13 @@
+<resources>
+    <item name="viewName" type="id" />
+    <item name="viewParentSize" type="id" />
+    <item name="viewSize" type="id" />
+    <item name="viewCoordinatesConversion" type="id" />
+    <item name="viewPosition" type="id" />
+    <item name="viewEvent" type="id" />
+    <item name="viewPic" type="id"/>
+    <item name="viewid1" type="id"/>
+    <item name="viewid2" type="id"/>
+    <item name="animator" type="id" />
+    <item name="point" type="id" />
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root2"
+    >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/book2"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:id="@+id/view2"
+        >
+        <ImageView
+            android:id="@+id/back2"
+            android:src="@drawable/read_back"
+            android:layout_width="64dp"
+            android:layout_height="64dp" />
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

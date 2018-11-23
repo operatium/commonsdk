@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <item name="point" type="id" />
+    <item name="value0" type="id" />
+    <item name="viewid1" type="id" />
+    <item name="viewid2" type="id" />
+    <item name="viewParentSize" type="id" />
+    <item name="viewSize" type="id" />
+    <item name="viewCoordinatesConversion" type="id" />
+    <item name="viewName" type="id" />
+    <item name="animator" type="id" />
+</resources>

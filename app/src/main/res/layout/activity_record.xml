@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <com.qicaibear.bookplayer.v.PageTurnView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/root4">
+        <!--<TextView-->
+            <!--android:id="@+id/tv4"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#dad"-->
+            <!--android:text="房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是房间打扫i放大送i放假哦发到付就扫i附近偶是"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#987"-->
+            <!--android:text="1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"-->
+            <!--/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="#036"-->
+            <!--android:text="222222222222"-->
+            <!--/>-->
+    </com.qicaibear.bookplayer.v.PageTurnView>
+</android.support.constraint.ConstraintLayout>
