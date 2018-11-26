@@ -1,6 +1,5 @@
 package com.yyx.commonsdk.sound;
 
-import android.app.Application;
 import android.content.Context;
 import android.media.AudioAttributes;
 import android.media.AudioManager;
